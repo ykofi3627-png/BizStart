@@ -1,0 +1,6 @@
+{
+  "name": "BizStart Equip & Budget Planner",
+  "description": "Calculate costs and equipment lists for starting your business across Amazon, Jiji, and Jumia with 3 budget tiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
